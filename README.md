@@ -1,2 +1,2 @@
 # recursivequeue
-A recurse queue implementation in Java
+A recurse queue implementation in Java.
